@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @interstellarspacetravel
 - 👀 I’m interested in Project Management / Data Analysis
-- 🌱 I’m currently learning Data Analysis via Coursera's Google Data Analytics Course 
+- 🌱 I've completed my Project Management and Data Analysis Certifications via Coursera's Google Career Certificates 
 - 💞️ I’m looking to collaborate on Project Management and Data Analysis projects 
 
 <!---
